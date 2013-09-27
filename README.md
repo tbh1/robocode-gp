@@ -10,4 +10,4 @@ A copy of Robocode (free) is required for this application to work.
 Robocode: http://robocode.sourceforge.net/
 
 You'll need to update the file paths in RunGP.
-There are tons of Robots on Robocode's website you can use to train your's against.
+There are tons of Robots on Robocode's website you can use to train yours against.
